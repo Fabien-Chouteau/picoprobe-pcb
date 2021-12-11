@@ -35,7 +35,7 @@ be able to re-use the Pico on other projects (left).
 
 ![](docs/media/3_pin_SWD.jpg)
 
-### Build Raspberry Pi's opencod
+### Build Raspberry Pi's openocd
 
 ```console
 $ sudo apt install automake autoconf build-essential texinfo libtool libftdi-dev libusb-1.0-0-dev
