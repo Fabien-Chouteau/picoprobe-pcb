@@ -21,8 +21,8 @@ be able to re-use the Pico on other projects (left).
 
 ## Install the Picoprobe software
 
- 1. Either get the picoprobe `.uf2` binary from our release [here]() or compile
- it yourself from sources [here]().
+ 1. Either get the picoprobe `.uf2` binary from our release [here](https://github.com/Fabien-Chouteau/picoprobe-pcb/releases/tag/v1.0) or compile
+ it yourself from sources [here](https://github.com/raspberrypi/picoprobe).
 
  1. Hold the BOOTSEL button on the Pico, then connect to your computer using a
  micro USB cable.
