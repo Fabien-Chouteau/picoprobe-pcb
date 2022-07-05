@@ -7,7 +7,8 @@ with the available hardware debugging solution, this kit is for you ^^
 This PCB is designed to turn a Pico into a nice debug probe using the
 [PicoProbe software](https://github.com/raspberrypi/picoprobe).
 
-[![image](https://user-images.githubusercontent.com/12136138/145528100-9610559c-07e7-4356-a571-3f2097125c1d.png)](https://www.tindie.com/products/fabien-c/picoprobe-pcb-kit/)
+Available at:
+[![image](https://images.milledcdn.com/2020-07-21/b79m3tLggwlHUMag/Hze3rq-xzpwd.jpg)](https://shop.pimoroni.com/products/picoprobe-pcb-kit?variant=39954095472723)
 
 # Usage
 
